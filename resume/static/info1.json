@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "title":"不眨眼",
+  "content":"项目是一款集交互小说，交互视频，以及社交平台类的游戏，项目中玩家可以评论剧本，私聊，看广场动态等功能",
+  "proClass":"Vue",
+  "proLanguage":["js","ts","Andorid","php","html","css"],
+  "proNum":"团队开发"
+}

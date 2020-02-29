@@ -1,0 +1,8 @@
+{
+  "id": 0,
+  "title":"信用卡小程序",
+  "content":"项目是记录引用卡的消费和还款，前端用微信开发者工具开发，后端用php",
+  "proClass":"小程序",
+  "proLanguage":["js","html","css","php"],
+  "proNum":"独立开发"
+}

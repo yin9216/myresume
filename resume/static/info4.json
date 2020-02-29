@@ -1,0 +1,8 @@
+{
+  "id": 4,
+  "title":"欢乐麻将",
+  "content":"是一款以四川麻将为基础的电视游戏，我在项目中负责将原有的手机游戏二次开发为电视游戏",
+  "proClass":"Cocos2dx",
+  "proLanguage":["c++","Andorid"],
+  "proNum":"独立开发"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 3,
+  "title":"娃娃机",
+  "content":"一款以娃娃机为基础玩法的电视游戏，我在项目负责客户端的全部内容",
+  "proClass":"Cocos2dx",
+  "proLanguage":["c++","Andorid"],
+  "proNum":"团队开发"
+}

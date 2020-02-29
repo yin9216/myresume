@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "title":"信用卡小程序",
+    "content":"项目是记录引用卡的消费和还款，前端用微信开发者工具开发，后端用php",
+    "proClass":"小程序",
+    "proLanguage":["js","html","css","php"],
+    "proNum":"独立开发"
+  },
+  {
+    "id": 1,
+    "title":"不眨眼",
+    "content":"项目是一款集交互小说，交互视频，以及社交平台类的游戏，项目中玩家可以评论剧本，私聊，看广场动态等功能",
+    "proClass":"Vue",
+    "proLanguage":["js","ts","Andorid","php","html","css"],
+    "proNum":"团队开发"
+  },
+  {
+    "id": 2,
+    "title":"小罗历险记",
+    "content":"小罗历险记是公司根据老板的形象开发的一款养成换装以及视频交互类的游戏",
+    "proClass":"CocosCreator",
+    "proLanguage":["js"],
+    "proNum":"独立开发"
+  },
+  {
+    "id": 3,
+    "title":"娃娃机",
+    "content":"一款以娃娃机为基础玩法的电视游戏，我在项目负责客户端的全部内容",
+    "proClass":"Cocos2dx",
+    "proLanguage":["c++","Andorid"],
+    "proNum":"团队开发"
+  },
+  {
+    "id": 4,
+    "title":"欢乐麻将",
+    "content":"是一款以四川麻将为基础的电视游戏，我在项目中负责将原有的手机游戏二次开发为电视游戏",
+    "proClass":"Cocos2dx",
+    "proLanguage":["c++","Andorid"],
+    "proNum":"独立开发"
+  },
+  {
+    "id": 5,
+    "title":"贪吃蛇大乱斗",
+    "content":"一款模仿贪吃蛇的电视游戏",
+    "proClass":"Cocos2dx",
+    "proLanguage":["c++","Andorid"],
+    "proNum":"独立开发"
+  }
+]
